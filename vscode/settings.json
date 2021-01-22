@@ -1,0 +1,56 @@
+{
+    "editor.minimap.enabled": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "files.associations": {
+        "*.jsx": "javascriptreact"
+    },
+
+    "emmet.syntaxProfiles": {"javascript": "jsx"},
+    "emmet.includeLanguages": { "javascript": "javascriptreact" },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "git.ignoreWindowsGit27Warning": true,
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 0,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "stylelint.config": {},
+    "css.validate": false,
+    "editor.maxTokenizationLineLength": 50000,
+
+    "terminal.integrated.fontSize": 14,
+    "workbench.startupEditor": "newUntitledFile",
+
+    // Configura tamanho e familia da fonte
+    "editor.tabSize": 3,
+    "editor.fontSize": 18,
+    "editor.lineHeight": 24,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+
+    "explorer.compactFolders": false,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "extensions.ignoreRecommendations": true,
+
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+
+    "editor.rulers": [80, 120]
+}
